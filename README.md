@@ -1,0 +1,2 @@
+# alquds
+Apliaksi adzan digital
